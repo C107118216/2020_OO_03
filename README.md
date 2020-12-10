@@ -83,6 +83,8 @@
 ## 分鏡表
 
 ## 使用者畫面
-
+![image](storyboard.jpg)
+## 欄位名稱、型態、驗證規則
+![image](table1.png)
 
 ![image](S__60579845.jpg)
