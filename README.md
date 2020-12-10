@@ -88,6 +88,8 @@
 ![image](storyboard2.jpg)
 ## 欄位名稱、型態、驗證規則
 ![image](table1.png)
+
+
 ![image](tabe2.png)
 
 ![image](S__60579845.jpg)
