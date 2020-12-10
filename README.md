@@ -82,9 +82,12 @@
 
 ## 分鏡表
 
-## 使用者畫面
+## 使用者登入畫面
 ![image](storyboard.jpg)
+## 使用者註冊畫面
+![image](storyboard2.jpg)
 ## 欄位名稱、型態、驗證規則
 ![image](table1.png)
+![image](table2.png)
 
 ![image](S__60579845.jpg)
