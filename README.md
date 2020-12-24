@@ -67,6 +67,9 @@
 ## DFD
 ![image](DFD.png)
 
+## DFD圖0
+![image](DFD.png)
+
 ---
 ## UML
 ![image](UML.png)
